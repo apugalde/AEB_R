@@ -1,0 +1,52 @@
+
+.myrow5{
+  /*height:150px;*/
+  background-color:yellow;
+  border-radius:5px;
+}
+
+.grow{
+  border-radius:5px;
+  background-color:#F3F3F3;
+  border:2px solid #B9B9B9;
+}
+
+.row {
+  margin-left: -5px;
+  margin-right: 5px;
+}
+
+body {
+  font-size: 12px;
+}
+
+p {
+    margin: 0px 0px 2px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/*Slider input*/
+
+.well {
+  padding: 5px;
+  margin-bottom: 5px;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
+
+.control-label {
+  font-size: 12px;
+}
+
+.html-widget.gauge {
+    margin: auto;
+}
+
+.html-widget.gauge svg {
+    height: 100%;
+}
+
+
